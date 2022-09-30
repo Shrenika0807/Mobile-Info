@@ -725,29 +725,19 @@
         "speed": "4g",
         "connectivity": "c"
 },
+]
 {
     "id": "81",
-        "company name": "Redmi",
-        "model number": "Note 8 Pro",
-        "ram": "6gb",
-        "storage": "64 gb",
-        "color": "Midnight Blue",
-        "number of speakers": "2",
-        "launch Date": [
-            "August 29, 2019"
-        ],
-        "camera": "64 mp",
-        "company name": "coolpad",
-        "model number": "1826-I01",
+        "company name": "Xiaomi",
+        "model number : "Redmi 9",
         "ram": "4gb",
         "storage": "64 gb",
-        "color": "Gradient Blue",
+        "color": "Sky Blue",
         "number of speakers": "2",
         "launch Date": [
-            "October 1, 2019"
+            "August 21, 2020"
         ],
         "camera": "13 mp",
         "speed": "4g",
         "connectivity": "c"
 }
-]
